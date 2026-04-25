@@ -46,7 +46,7 @@ ai-english-coach/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-english-coach.git
+git clone [https://github.com/Samra-younas/english-speaking-coach-ai]
 cd ai-english-coach
 ```
 
